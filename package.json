@@ -79,7 +79,8 @@
     "tslib": "^2.1.0",
     "typescript-rabbitmq": "^0.0.8",
     "uuidv4": "^6.2.12",
-    "validator": "^13.7.0"
+    "validator": "^13.7.0",
+    "firebase-admin": "^10.0.2"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^12.0.2",
